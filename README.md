@@ -20,9 +20,6 @@
 
   [Questions](#questions)
   
-  [Demo](#demo)
-
-  [References](#references)
 
   
   ## Installation
@@ -39,8 +36,6 @@
   - node server.js
   - Proceed by following the url 
 
-
-
   ## Contribution
   
   First fork the repo and create a branch that will merge into the main. Then make a commit to add to the project and open a pull request on Github. Once the changes have been approved and merged, the feature branch will be added to the main branch.
@@ -49,7 +44,4 @@
   
   If you have any questions about the repo, open an issue or contact me at blamb_22@hotmail.com. You can find more of my work at  [brandonlambrecht](https//github.com/brandonlambrecht/).
     
-  ## Demo
-
-  Click [here](https://drive.google.com/file/d/1jQI79ZXp23KUs8YmWhKFqZOan2GG_TpI/view) for the demo video on how to run the application. 
-
+ 
